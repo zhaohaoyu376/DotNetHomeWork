@@ -1,0 +1,10 @@
+E:\C#\HomeworkTwo\HomeworkTwo\bin\Debug\HomeworkTwo.exe.config
+E:\C#\HomeworkTwo\HomeworkTwo\bin\Debug\HomeworkTwo.exe
+E:\C#\HomeworkTwo\HomeworkTwo\bin\Debug\HomeworkTwo.pdb
+E:\C#\HomeworkTwo\HomeworkTwo\obj\Debug\HomeworkTwo.csprojAssemblyReference.cache
+E:\C#\HomeworkTwo\HomeworkTwo\obj\Debug\HomeworkTwo.Form1.resources
+E:\C#\HomeworkTwo\HomeworkTwo\obj\Debug\HomeworkTwo.Properties.Resources.resources
+E:\C#\HomeworkTwo\HomeworkTwo\obj\Debug\HomeworkTwo.csproj.GenerateResource.cache
+E:\C#\HomeworkTwo\HomeworkTwo\obj\Debug\HomeworkTwo.csproj.CoreCompileInputs.cache
+E:\C#\HomeworkTwo\HomeworkTwo\obj\Debug\HomeworkTwo.exe
+E:\C#\HomeworkTwo\HomeworkTwo\obj\Debug\HomeworkTwo.pdb
